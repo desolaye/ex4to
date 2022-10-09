@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ex4to
+- 👋 Hi, I’m @ex4to  
 [![wakatime](https://wakatime.com/badge/user/210196ad-e1cb-4b4b-b4ae-3a0738bc65d1.svg)](https://wakatime.com/@210196ad-e1cb-4b4b-b4ae-3a0738bc65d1)  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,9 +8,15 @@
 ## GitHub Profile Statistics
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex4to&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ex4to" />
+<img src="https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex4to&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ex4to" />
+
+## Repos
+
+### C++ Calculator
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ex4to&repo=DiVea"
 
 <!---
 ex4to/ex4to is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
