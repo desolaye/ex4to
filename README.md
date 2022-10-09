@@ -6,7 +6,7 @@
 
 ## GitHub Profile Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merko&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko)
 
 <!---
 ex4to/ex4to is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
