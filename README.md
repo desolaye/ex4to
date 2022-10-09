@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex4to&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Profile Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 <!---
 ex4to/ex4to is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
