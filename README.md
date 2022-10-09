@@ -7,7 +7,7 @@
 
 ## GitHub Profile Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex4to&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ex4to" />
 
