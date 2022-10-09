@@ -16,7 +16,7 @@
 
 ### C++ Calculator
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ex4to&repo=DiVea"
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ex4to&repo=DiVea" />
 
 <!---
 ex4to/ex4to is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
