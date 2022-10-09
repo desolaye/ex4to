@@ -7,9 +7,9 @@
 
 ## GitHub Profile Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ex4to&layout=compact)
-![ex4to's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ex4to)  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex4to&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ex4to" />
 
 <!---
 ex4to/ex4to is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
