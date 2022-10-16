@@ -12,7 +12,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex4to&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ex4to" />
 
 ## Repos
 
