@@ -7,11 +7,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ex4to&show_icons=true&theme=merko" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex4to&layout=compact" />
 
-## Repos
-
-### C++ Calculator
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ex4to&repo=DiVea" />
+## Projects
 
 ### Hardware store website
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ex4to&repo=novakt" />
+<a href="https://github.com/ex4to/novakt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ex4to&repo=novakt" />
+</a>
